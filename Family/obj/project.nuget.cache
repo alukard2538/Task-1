@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3bjr3nhNlCqQxjinZN3P9My0oPfCehDEmQfmuj10sSUrFChL2dAb9FCbpCdb4gEvkiytW7xpBpClBm1VjwR0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\annaq\\YandexDisk\\Магистр ЧелГУ\\1 семестр\\ООП\\Task 1. Family relations\\Family\\Family.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annaq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\annaq\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\annaq\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\annaq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
